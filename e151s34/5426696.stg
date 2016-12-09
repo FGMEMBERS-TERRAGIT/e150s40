@@ -16,7 +16,8 @@ OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac 151.153 -33.8433 8.61 27
 OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac 151.2103036 -33.8546102 3.32 312.58
 OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac 151.215 -33.855 0 45.45
 OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac 151.233 -33.8683 0 223.99
-OBJECT_STATIC Opera_House_Sydney.xml 151.215089 -33.856934 2.9 84
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml 151.2463495 -33.8121422 -2.4 0
+OBJECT_STATIC Opera_House_Sydney.xml 151.21479135 -33.85783855 0 76
 OBJECT_STATIC MLC.ac 151.2096466 -33.86851273 56.34 0
 OBJECT_STATIC AustraliaSquare.ac 151.20771101 -33.86543824 28.82 0
 OBJECT_STATIC Centrepoint.ac 151.20895169 -33.8703589 85.3 87.3
