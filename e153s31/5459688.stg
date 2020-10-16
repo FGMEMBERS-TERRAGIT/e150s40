@@ -1,2 +1,5 @@
 OBJECT_SHARED Models/Airport/ndb.ac 153.117222 -30.312222 5.48 180
 OBJECT_SHARED Models/Communications/vordme_1.xml 153.116111 -30.319167 1.88 180
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 153.114875 -30.324015 6.51 13
+OBJECT_SHARED Models/Airport/hangar_helgi.xml 153.115596 -30.323145 3.68 12
+OBJECT_SHARED Models/Airport/30mx34mHangar.ac 153.116555 -30.322282 2.86 12

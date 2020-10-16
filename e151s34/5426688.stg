@@ -9,12 +9,18 @@ OBJECT_SHARED Models/Communications/vordme_1.xml 151.186111 -33.939722 4.72 180
 OBJECT_SHARED Models/Communications/vordme_1.xml 151.190833 -33.954167 2.53 180
 OBJECT_SHARED Models/Communications/vordme_1.xml 151.191389 -33.968333 0.86 180
 OBJECT_SHARED Models/Airport/marker.ac 151.1675 -33.915278 8.78 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_01.xml 151.200832 -33.883652 -355.25 0
+OBJECT_SHARED Models/Commercial/generic_skyscraper_02.ac 151.223092 -33.876119 -316.36 0
+OBJECT_SHARED Models/Commercial/generic_skyscraper_03.ac 151.219302 -33.875854 -312.05 0
 OBJECT_SHARED Models/Airport/localizer.xml 151.162778 -33.943889 3.4 344.28
 OBJECT_SHARED Models/Airport/localizer.xml 151.171111 -33.9275 4.84 77.85
 OBJECT_SHARED Models/Airport/localizer.xml 151.181667 -33.966667 0.96 257.38
 OBJECT_SHARED Models/Airport/localizer.xml 151.187778 -33.9475 3.58 77.84
 OBJECT_SHARED Models/Airport/localizer.xml 151.191667 -33.93715 6.75 164.13
 OBJECT_SHARED Models/Airport/localizer.xml 151.194444 -33.973333 1.23 257.9
+OBJECT_SHARED Models/Misc/breton-church.ac 151.169496 -33.883416 31.56 0
+OBJECT_SHARED Models/Misc/breton-church.ac 151.169997 -33.883964 31.05 0
+OBJECT_SHARED Models/Misc/breton-church.ac 151.169997 -33.883964 31.05 0
 OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac 151.0578552 -33.9962492 0 276.77
 OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac 151.0585022 -33.9955067 0 276.41
 OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac 151.0672254 -33.9922005 0 137.17
@@ -34,6 +40,7 @@ OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac 151.1976673 -33.9584594 0
 OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac 151.2084112 -33.9823752 -0.05 102.94
 OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac 151.211133 -33.984467 3.39 112.99
 OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac 151.213544 -33.9862727 -0.57 341.22
+OBJECT_SHARED Models/Sport/GenericStadium.xml 151.225251 -33.889076 45.92 0
 OBJECT_STATIC Terminal1-Main.ac 151.16661255 -33.93675475 53.41 150.5
 OBJECT_STATIC Term1-PierC_02.ac 151.16515164 -33.93970065 17.97 104
 OBJECT_STATIC Terminal1-Pier_B.ac 151.16891414 -33.93722588 10.55 127.3
