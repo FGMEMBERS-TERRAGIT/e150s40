@@ -109,3 +109,6 @@ OBJECT_SHARED Models/lib/deciduous-tree2.xml 153.11808 -30.31263 4.55 135
 OBJECT_SHARED Models/lib/deciduous-tree2.xml 153.11816 -30.31257 4.55 0
 OBJECT_SHARED Models/lib/deciduous-tree2.xml 153.11814 -30.31247 4.61 0
 # END dsf2stg
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 153.114875 -30.324015 6.51 13
+OBJECT_SHARED Models/Airport/hangar_helgi.xml 153.115596 -30.323145 3.68 12
+OBJECT_SHARED Models/Airport/30mx34mHangar.ac 153.116555 -30.322282 2.86 12
